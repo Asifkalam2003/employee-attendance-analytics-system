@@ -1,0 +1,26 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# macOS files
+.DS_Store
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
